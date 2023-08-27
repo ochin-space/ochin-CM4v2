@@ -31,10 +31,10 @@ In this repository you can find the manual of the board, a quick start guide for
 
 It is important to read them both before turning on the ochin_CM4v2 board, to know its characteristics and above all the sequence in which the signals are present on the connectors.
 
-## Where to buy the ochin_CM4 boards
+# Where to buy the ochin_CM4 boards
 The ochin_CM4 boards are manufactured and sold by Seeedstudio. You can purchase ochin_CM4 boards from Seeedstudio's marketplace, https://www.seeedstudio.com or from Seeedstudio's business partners (Digikey, Mouser, RS components and many others).
 
-## Important!!!
+# Important!!!
 
 Print and use the extractor for the CM4 module if you don't want to break the mezzanines, you can find the .stl in the "3d/Covers turrets and extractors" section of this repository.
 
