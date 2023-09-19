@@ -1,9 +1,14 @@
 ![Alt text](images/logo.png?raw=true&=200x "ochin_CM4")
 # ochin_CM4v2
 The öchìn CM4 it’s a tiny carrier board for the Raspberry Pi Compute Module  It is designed for applications where a powerful machine with low consumption and small dimensions is required. The small form factor makes it interesting for all those applications where the space available is not much and containing the weight is important, such as in robotics, home automation and IOT.
+
 ![Alt text](images/ochin_CM4_topDoc.png?raw=true "ochin_CM4")
 
+![Alt text](images/ochin_CM4_botDoc.png?raw=true "ochin_CM4 back")
+
 ![Alt text](images/ochin_CM4_USBext_topDoc.png?raw=true "ochin_CM4extUSB")
+
+![Alt text](images/ochin_CM4_USBext_botDoc.png?raw=true "ochin_CM4extUSB")
 
 The board is compatible with all Raspberry Pi CM4 modules equipped with eMMC. Depending on your needs, you can select a CM4 module with an SDRAM starting from 1GB up to 8GB and the eMMC from 8GB up to 32GB, with or without the Wi-Fi / BT4 connection.
 
