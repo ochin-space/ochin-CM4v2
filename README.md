@@ -25,13 +25,27 @@ o 2.4 GHz, 5.0 GHz IEEE 802.11 b/g/n/ac wireless
 o Bluetooth 5.0, BLE
 o On board electronic switch to select between PCB trace or external antenna
 * 1×USB 2.0 port (highspeed)
-* MIPI CSI-2:
-o 1×2-lane MIPI CSI camera port, 1×4-lane MIPI CSI camera port
-* 3×UART, 1×I2C port, 1×SPI port, Analog Video Output
-* 1x microHDMI digital video port
-* 2x general purpose LED
-* 1x general purpose RGB LED on external tiny board
-* 1x general purpose Button on external tiny board
+
+The öchìn CM4v2 board provides the following interfaces:
+
+*	4x USB 2.0 480Mbps (4x SM04B-GHS-TB(LF)(SN) connectors)
+*	1x USB Type-C (for flashing eMMC)
+*	2x CSI camera (2x FH12-22S-0.5SH (55) connectors)
+*	I2C1 (SM04B-GHS-TB(LF)(SN) connector)
+*	SPI1 / 6 (SM06B-GHS-TB(LF)(SN) connector)
+*	UART0 / 1 + Video Out (SM06B-GHS-TB(LF)(SN) connector)
+*	UART4 / UART5 (SM06B-GHS-TB(LF)(SN) connector)
+*	1x Ethernet transformerless 100Base-T
+*	1x microHDMI
+*	2x general purpose LEDs
+*	1x RGB LED on external tiny board
+*	1x general purpose button on external tiny board
+
+The ochin_CM4v2 card introduces several new features compared to v1, some of which are very interesting and which considerably broaden its range of use. 
+
+Below is a table in which it is possible to see which are the new fetures and which has been removed.
+
+![Alt text](images/ochin_comparison_table.png?raw=true "ochin_CM4 comparison table")
 
 In this repository you can find the manual of the board, a quick start guide for flashing the CM4 module and a guide with some tips on how to make the connections to the ochin board. 
 
