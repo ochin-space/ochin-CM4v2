@@ -54,6 +54,18 @@ It is important to read them both before turning on the ochin_CM4v2 board, to kn
 # Where to buy the ochin_CM4 boards
 The ochin_CM4 boards are manufactured and sold by Seeedstudio. You can purchase ochin_CM4 boards from Seeedstudio's marketplace, https://www.seeedstudio.com or from Seeedstudio's business partners (Digikey, Mouser, RS components and many others).
 
+# License Notice for This GitHub Repository
+
+This GitHub repository contains various resources that are subject to specific licenses. Please note the following information regarding the applicable licenses:
+
+* Documentation, Manuals, PDF Schematics, scripts and Other Textual Content: All textual documents present in this repository, including manuals, schematics, and documentation, are released under the GNU Free Documentation License (GFDL).
+
+* Hardware (KiCad Sources, Gerber Files, Assembly Files, etc.): The hardware-related items, including but not limited to KiCad sources, Gerber files, and assembly files, are subject to a proprietary license. This means that these resources are not released as open source and their use is governed by the terms specified in the accompanying documentation or separate terms of use provided.
+
+Please respect the conditions of both licenses when using and distributing the materials in this repository.
+
+For any questions or clarifications regarding the licenses, feel free to contact us.
+
 # Important!!!
 
 Print and use the extractor for the CM4 module if you don't want to break the mezzanines, you can find the .stl in the "3d/Covers turrets and extractors" section of this repository.
