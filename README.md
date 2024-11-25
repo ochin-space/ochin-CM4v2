@@ -47,7 +47,7 @@ Below is a table in which it is possible to see which are the new fetures and wh
 
 ![Alt text](images/ochin_comparison_table.png?raw=true "ochin_CM4 comparison table")
 
-In this repository you can find the manual of the board, a quick start guide for flashing the CM4 module and a guide with some tips on how to make the connections to the ochin board. 
+In this repository you can find the [manual](öchìnCM4v2-Manual.pdf) of the board, a quick start guide for flashing the CM4 module and a guide with some tips on how to make the connections to the ochin board. 
 
 It is important to read them both before turning on the ochin_CM4v2 board, to know its characteristics and above all the sequence in which the signals are present on the connectors.
 
@@ -64,12 +64,14 @@ This GitHub repository contains various resources that are subject to specific l
 
 Please respect the conditions of both licenses when using and distributing the materials in this repository.
 
-For any questions or clarifications regarding the licenses, feel free to contact us.
+For any questions or clarifications regarding the [LICENSE](LICENSE), feel free to contact us.
 
 # Important!!!
 
-Print and use the extractor for the CM4 module if you don't want to break the mezzanines, you can find the .stl in the "3d/Covers turrets and extractors" section of this repository.
+Print and use the extractor for the CM4 module if you don't want to break the mezzanines, you can find the [ochin_mount-extractor.stl](3d/CoversTurretsAndExtractors/ochin_mount-extractor.stl) in the "3d/CoversTurretsAndExtractors" section of this repository.
 
-Take a look at the "öchìn CM4 - Wiring and Suggestions.pdf" before power the board on, it may save your time and your devices.
+Take a look at the [öchìnCM4v2-WiringAndSuggestions.pdf](öchìnCM4v2-WiringAndSuggestions.pdf) before power the board on, it may save your time and your devices.
 
 Never trust the color code of the GHS cables, the sequence in which commercial GHS cables are assembled is often random and does not reflect the sequence of the signals present in the connectors of the ochin_CM4 board.
+
+Please refer to the file [öchìnCM4v2-HW-bugs.pdf](öchìnCM4v2-HW-bugs.pdf) for details regarding known issues on the board and the respective version in which they were resolved
