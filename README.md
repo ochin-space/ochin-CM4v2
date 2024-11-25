@@ -11,7 +11,7 @@ The öchìn CM4 it’s a tiny carrier board for the Raspberry Pi Compute Module 
 ![Alt text](images/ochin_CM4_USBext_botDoc.png?raw=true "ochin_CM4extUSB")
 
 
-The board is compatible with all Raspberry Pi CM4 modules equipped with eMMC. Depending on your needs, you can select a CM4 module with an SDRAM starting from 1GB up to 8GB and the eMMC from 8GB up to 32GB, with or without the Wi-Fi / BT4 connection.
+The board is compatible with all Raspberry Pi CM4 modules equipped with eMMC. Depending on your needs, you can select a CM4 module with an SDRAM starting from 1GB up to 8GB and the eMMC from 8GB up to 32GB, with or without the Wi-Fi/BT module.
 
 Key features of the Raspberry Pi CM4 available on öchìn are as follows:
 * Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz
