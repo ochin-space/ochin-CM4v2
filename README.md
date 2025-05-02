@@ -1,5 +1,5 @@
 ![Alt text](images/logo.png?raw=true&=200x "ochin_CM4")
-# ochin_CM4v2
+# ochin_CM4 v2.0.1
 The öchìn CM4 it’s a tiny carrier board for the Raspberry Pi Compute Module  It is designed for applications where a powerful machine with low consumption and small dimensions is required. The small form factor makes it interesting for all those applications where the space available is not much and containing the weight is important, such as in robotics, home automation and IOT.
 
 ![Alt text](images/ochin_CM4_topDoc.png?raw=true "ochin_CM4")
