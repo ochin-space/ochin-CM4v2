@@ -1,4 +1,3 @@
-# ochin_cm4v2
 
 Compact carrier board for Raspberry Pi Compute Module 4, ideal for drones and robotics.
 
