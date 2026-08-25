@@ -41,7 +41,7 @@ The öchìn CM4v2 board provides the following interfaces:
 *	1x RGB LED on external tiny board
 *	1x general purpose button on external tiny board
 
-The ochin_CM4v2 card introduces several new features compared to v1, some of which are very interesting and which considerably broaden its range of use. 
+The ochin_CM4v2 card introduces several new features compared to v1, some of which expand the board's capabilities and make it suitable for a wider range of embedded applications. 
 
 Below is a table in which it is possible to see which are the new fetures and which has been removed.
 
@@ -50,6 +50,12 @@ Below is a table in which it is possible to see which are the new fetures and wh
 In this repository you can find the [manual](öchìnCM4v2-Manual.pdf) of the board, a quick start guide for flashing the CM4 module and a guide with some tips on how to make the connections to the ochin board. 
 
 It is important to read them both before turning on the ochin_CM4v2 board, to know its characteristics and above all the sequence in which the signals are present on the connectors.
+
+# Intended Use
+
+The öchìn CM4v2 is a general-purpose carrier board intended for civilian applications such as embedded computing, robotics, IoT, home automation, multimedia, computer vision, research and education.
+
+The board is not designed, marketed or intended for military or weapons-related applications. Users are responsible for ensuring that their use of the hardware and software complies with all applicable laws, regulations and export-control requirements.
 
 # Where to buy the ochin_CM4 boards
 The ochin_CM4 boards are manufactured and sold by Seeedstudio. You can purchase ochin_CM4 boards from Seeedstudio's marketplace, https://www.seeedstudio.com or from Seeedstudio's business partners (Digikey, Mouser, RS components and many others).
